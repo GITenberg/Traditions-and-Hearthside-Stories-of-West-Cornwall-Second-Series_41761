@@ -1,0 +1,27 @@
+_repo: Traditions-and-Hearthside-Stories-of-West-Cornwall-Second-Series_41761
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41761-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bottrell, William
+    birthdate: 1816
+    deathdate: 1881
+    gutenberg_agent_id: '41349'
+    url: http://www.gutenberg.org/2009/agents/41349
+description: ''
+gutenberg_issued: '2013-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41761'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cornwall (England : County) -- Social life and customs'
+- !lcc 'GR'
+- !lcsh 'Legends -- England -- Cornwall (County)'
+title: Traditions and Hearthside Stories of West Cornwall, Second Series
+url: http://www.gutenberg.org/ebooks/41761
